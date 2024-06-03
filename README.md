@@ -29,7 +29,7 @@ This project automates the deployment of a LAMP stack on AWS using Terraform. Th
 
 ## Architecture Diagram
 
-![Architecture Diagram](link_to_architecture_diagram)
+![Architecture Diagram](./image/LAMB-Server.drawio.png)
 
 ## Prerequisites
 
